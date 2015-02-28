@@ -1,0 +1,19 @@
+body {
+	background-color: #01A2A6;
+}
+
+form {
+	padding: 20px;
+}
+
+input {
+	border: 1px solid #BDF271;
+	width: 40%;
+	height: 20px
+}
+
+.btn {
+	margin-top: 20px;
+	background-color: #fff;
+	width: 20%
+}
