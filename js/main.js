@@ -1,6 +1,6 @@
-var logElements = document.getElementsByClassName("btn");
+var myForm = document.getElementById("form");
 
-logElements[0].addEventListener( "click", function () {
+myForm.addEventListener( "submit", function () {
 	var firstname = document.getElementById( "firstname" ).value;
 	var lastname = document.getElementById( "lastname" ).value;
 	var email = document.getElementById( "email" ).value;
